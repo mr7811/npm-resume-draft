@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Timothy Tang",
-  "license": "ISC"
-"bin": {
+  "license": "ISC",
+  "bin": {
     "resume-me": "./index.js"
-  },
+  }
 }
